@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello World!! 👋, I'm Lakshmita Kotari</h1>
 <h3 align="center">I'm Lakshmita, a Computer Science Graduate Student at The University of Georgia. I love programming and solving problems in the most efficient way possible. My interest lies in Software Engineering. I am inspired by Steve Jobs and believe in his ideology of connecting creativity with technology.</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 - 💬 Ask me about **Software Development and Web Development**
 
