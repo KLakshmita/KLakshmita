@@ -1,6 +1,6 @@
 ![MasterHead]( https://t3.ftcdn.net/jpg/04/54/50/84/360_F_454508453_eQylVEA1UpxVbBwI76fUViLmmfQvIHsH.jpg)
 
-<h1 align="center">Hi 👋, I'm Lakshmita Kotari</h1>
+<h1 align="center">Hello World!! 👋, I'm Lakshmita Kotari</h1>
 <h3 align="center">I'm Lakshmita, a Computer Science Graduate Student at The University of Georgia. I love programming and solving problems in the most efficient way possible. My interest lies in Software Engineering. I am inspired by Steve Jobs and believe in his ideology of connecting creativity with technology.</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=ecf05e47jov5g31v5gr7atd9c1olwrhgv6qfzjl4j5cgpr75&rid=giphy.gif&ct=g">
 
