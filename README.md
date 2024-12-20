@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Software Development and Web Development**
 
-- 📫 How to reach me **Lakshmita.Kotari@uga.edu**
+- 📫 How to reach me **lakshmita13kotari@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/lakshmita-kotari/](https://www.linkedin.com/in/lakshmita-kotari/)
 
